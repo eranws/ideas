@@ -1,0 +1,26 @@
+
+* lipSync - tool for realistic animation of speech
+	input: sound clip
+	output: 3d points of mouth area, cheeks, etc.
+	
+* videoDub - play live video over recorded one, using depth camera
+	crop the exact person boundaries
+	mixing according to z-values
+	trigger recorded scenes, according to person position
+		- man comming from behind
+		- video shows sofa, when person gets near, people come and take it
+			- use person distance as a slider for the movie
+				- actor sits on sofa, when person gets near he gets up and leaves (tofeset?)
+				
+* Jora - project a video on a sewer lid / manhole cover, on the street
+	- people calling for help
+	- monsters
+	- change projection according to tracked head position
+	
+* cyborgDancer - actuator suit with abundance of sensors to create live street music shows.
+	- pressure: feet 
+	- flex: fingers, joints
+	- simple short circuit switch: fingertips
+		thumb is ground, each finger is digital input
+	- capSense: belly
+	
