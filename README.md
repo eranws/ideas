@@ -1,0 +1,4 @@
+ideas
+=====
+
+seeding projects
