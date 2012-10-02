@@ -27,3 +27,5 @@
 
 * music worm - genetic algoritm to search the 'best' simple tune
 	- how to describe the music gene
+
+* git browser - serve pages in a 'git'ly manner
