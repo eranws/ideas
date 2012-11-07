@@ -29,3 +29,7 @@
 	- how to describe the music gene
 
 * git browser - serve pages in a 'git'ly manner
+
+* thereNIm - control sinus wave (or any other instrument) using hands
+	- right hand for volume, higher=louder, hand-elbow trigger on/off
+	- left hand for pitch, higher=higher :) forward/backward=res/cutoff/bandpass, left/right?
